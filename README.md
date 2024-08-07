@@ -6,8 +6,8 @@
 
 __Cube_it__
 
-[ ] Create a function template cube_it, that returns the cube of any data type that implements the * operator. <br>
-    <t>[ ] Demonstrate cube_it with both ints and doubles.<br>
+[x] Create a function template cube_it, that returns the cube of any data type that implements the * operator. <br>
+    <t>[x] Demonstrate cube_it with both ints and doubles.<br>
 
 __NumEater__
 
