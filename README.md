@@ -5,6 +5,7 @@
 ### Jewell Callahan
 
 __Cube_it__
+
 [ ] Create a function template cube_it, that returns the cube of any data type that implements the * operator. <br>
     <t>[ ] Demonstrate cube_it with both ints and doubles.<br>
 
@@ -17,9 +18,8 @@ __NumEater__
         <t><t> [ ] and two functions:<br>
             <t><t><t> [ ] void eat(T num) and T burp()<br>
 
-<br>
-
 <hr width="100%" size="2">
+
 Upon every call to eat, the NumEater will display "nom-nom" to the console and add the eaten number to sum.  <br>
 <t> [ ] The burp function will return the sum. <br>
 <br>
